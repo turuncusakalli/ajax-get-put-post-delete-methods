@@ -8,6 +8,6 @@ I deleted my Google API key from index.html. You need to use your own API key.
 
 ### Product Screenshots
 
-<img align="left" alt="HTML5" width="30%" src="index.png" />
-<img align="left" alt="HTML5" width="30%" src="addNewShop.png" />
-<img align="left" alt="HTML5" width="30%" src="editShop.png" />
+<img align="left" alt="HTML5" width="30%" src="sources/index.png" />
+<img align="left" alt="HTML5" width="30%" src="sources/addNewShop.png" />
+<img align="left" alt="HTML5" width="30%" src="sources/editShop.png" />
